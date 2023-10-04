@@ -1,10 +1,10 @@
-Which of the following are valid ways to pass data from a parent component to a child component in Angular? (Select all that apply)
+Which of the following are not the valid ways to pass data from a parent component to a child component in Angular?
 
 A. Input properties<br />
 B. Output properties<br />
-C. ViewChild<br />
+C. ViewInit<br />
 D. ActivatedRoute<br />
-Correct Answers: A, B, C
+Correct Answers: D
 
 When should you use Angular's HttpClient to make an HTTP request as opposed to the native fetch API? (Select all that apply)
 
@@ -19,9 +19,9 @@ Which of the following Angular CLI commands can be used to generate a new compon
 
 A. ng generate component my-component<br />
 B. ng create component my-component<br />
-C. ng component my-component<br />
+C. ng service component my-component<br />
 D. ng add component my-component<br />
-Correct Answers: A, C
+Correct Answers: A
 
 
 In Angular, what is the purpose of a resolver?
@@ -33,7 +33,7 @@ D. To control the visibility of child components<br />
 Correct Answers: B
 
 
-When working with Angular forms, which of the following validators are built-in validators? (Select all that apply)
+When working with Angular forms, which of the following validators are built-in validators? (Select all that apply) (Intermediate )
 
 A. required<br />
 B. minLength<br />
@@ -51,13 +51,13 @@ D. To navigate to a different route<br />
 Correct Answers: A
 
 
-In Angular, which are not the valid ways to share data and services across different components?
+In Angular, which is the valid way to share data and services across different components?
 
 A. Using the @Input and @Output decorators<br />
 B. Using the localStorage object<br />
 C. Using session storage<br />
 D. Using the window object<br />
-Correct Answers: B, C, D
+Correct Answers: A
 
 In Angular, which of the following decorators is used to define the metadata for a component?
 
