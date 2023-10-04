@@ -15,7 +15,7 @@ When working with observables in RxJS, which of the following is true about the 
 &emsp; D. It automatically unsubscribes from the observable after the first emission.<br />
 Correct Answers: A, B, C
 
-When working with RxJS observables, which operators are used for combining multiple observables into a single observable? (Select all that apply)
+When working with RxJS observables, which operators are used for combining multiple observables into a single observable? (Select all that apply) ###(Advance)
 
 A. combineLatest<br />
 B. forkJoin<br />
