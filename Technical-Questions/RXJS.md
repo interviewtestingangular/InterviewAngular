@@ -23,7 +23,7 @@ C. merge<br />
 D. concat<br />
 Correct Answers: A, B, C, D
 
-In RxJS, which operators can be used for managing the timing of emissions from observables? (Select all that apply)
+In RxJS, which operators can be used for managing the timing of emissions from observables? (Select all that apply) (Advance)
 
 A. debounceTime<br />
 B. throttle<br />
