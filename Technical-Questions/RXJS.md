@@ -73,7 +73,7 @@ What is takeUntil operator in RxJS? <br />
 &emsp; d) To merge multiple observables into one <br />
 Correct Answer: b) To unsubscribe from an observable when a notifier observable emits <br />
 
-Which choose which module is used to handle HTTP requests and make use of RxJS for handling responses? <br />
+Which module is used to handle HTTP requests and make use of RxJS for handling responses? <br />
 &emsp; a) HttpClientModule <br />
 &emsp; b) RouterModule <br />
 &emsp; c) FormsModule <br />
