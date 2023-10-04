@@ -45,12 +45,12 @@ What is async pipe in Angular? <br />
 &emsp; d) To automatically subscribe and unsubscribe from observables in templates <br />
 &emsp; Correct Answer: d) To automatically subscribe and unsubscribe from observables in templates <br />
 
-Which of the following answers are NOT a commonly used RxJS operator for handling data transformations? <br />
+Which of the following answers are NOT a RxJS operator for handling data transformations? <br />
 &emsp; a) map <br />
 &emsp; b) switchMap <br />
 &emsp; c) forEach <br />
 &emsp; d) mergeMap <br />
-Correct Answer: c) a , b , d <br />
+Correct Answer: c) c <br />
 
 What is the purpose of Subject class from RxJS? <br />
 &emsp; a) To represent an HTTP request <br />
